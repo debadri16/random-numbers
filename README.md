@@ -1,1 +1,1 @@
-Don't need to use functions like #rand()
+Don't need to use functions like **rand**
