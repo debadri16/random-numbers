@@ -1,2 +1,1 @@
-# random-numbers
-generates random integers without lib. functions
+Don't need to use functions like #rand()
