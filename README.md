@@ -1,1 +1,1 @@
-Don't need to use functions like **rand**
+Simplest code to generate **random** numbers within a range(user input)
